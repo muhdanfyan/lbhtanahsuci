@@ -4126,6 +4126,10 @@ input[type="button"].btn-block {
   white-space: nowrap;
 }
 
+.img-logo{
+  width: 240px;
+}
+
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
 }
@@ -9859,6 +9863,7 @@ h4, h5, h6 {
 
 .team-item:hover .team-social {
   opacity: 1;
+  /* width: 400px; */
 }
 
 .testimonial-text::after {
